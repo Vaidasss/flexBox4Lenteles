@@ -1,0 +1,148 @@
+
+h3 {
+font-family:'Poppins', sans-serif;
+margin:20px;
+color:#363636;
+} 
+
+body {
+background-color: #d6d6d6;	
+}
+
+p {
+font-family: 'Poppins', sans-serif;	
+font-size:15px;	
+margin:20px;
+line-height: 200%;
+color:#8c8c8c;
+}
+
+
+.Pagrindas {
+
+width: 1440px;
+margin: 0 auto;
+background-color:#d6d6d6;
+text-align:center;
+display:flex;
+align-items:center;
+justify-content:center;
+/*flex-direction:row;*/
+
+}
+
+
+.vidurys {
+
+display:flex;  /*nuėmus atsiranda vienodi tarpai, 
+bet užduotyje jie mažiukai, tai laikinai nuimu */ 
+flex-direction:column;
+
+
+}
+
+.Supervisor {
+
+width:400px;
+height:250px;
+background-color:#f0f0f0;
+margin:40px;
+border-radius: 5px 5px 5px 5px;
+box-sizing:border-box;
+text-align:left;
+border-top: 5px solid hsl(180, 62%, 55%);
+-webkit-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+-moz-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+}
+
+
+.Team {
+width:400px;
+height:250px;
+margin:25px auto;
+background-color:#f0f0f0;
+border-top: 5px solid hsl(0, 78%, 62%);
+border-radius: 5px 5px 5px 5px;
+box-sizing:border-box;
+text-align:left;	
+-webkit-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+-moz-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+}
+
+
+.Karma {
+width:400px;
+height:250px;
+margin:25px auto;
+background-color:#f0f0f0;
+border-top: 5px solid hsl(34, 97%, 64%);
+border-radius: 5px 5px 5px 5px;
+box-sizing:border-box;
+text-align:left;
+-webkit-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+-moz-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+}
+
+
+.Calculator {
+
+width:400px;
+height:250px;
+margin:40px ;
+background-color:#f0f0f0;
+border-top: 5px solid hsl(212, 86%, 64%);
+border-radius: 5px 5px 5px 5px;
+box-sizing:border-box;
+text-align:left;
+-webkit-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+-moz-box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+box-shadow: 1px 7px 25px -1px rgba(158,150,158,1);
+
+}
+
+
+.virsus {
+font-family: 'Poppins', sans-serif;
+font-weight: 350;
+text-align: center;
+color:black;
+margin-top:20px;
+
+}
+
+
+.powered {
+font-family: 'Poppins', sans-serif;
+text-align: center;
+color:#363636;
+margin-top:-30px;
+
+}
+
+
+.nuotrauka {
+display:flex;
+justify-content:flex-end;
+margin:30px;
+
+}
+
+
+.artificial {
+font-family: 'Poppins', sans-serif;
+text-align: center;
+color:#8c8c8c;
+font-weight: 350;
+
+}
+
+
+
+
+
+
+
+
